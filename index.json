@@ -1,6 +1,922 @@
 {
   "items": [
     {
+      "slug": "candy",
+      "name": "Candy",
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "path": "hard/candy/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "largest-rectangle-in-histogram",
+      "name": "Largest Rectangle in Histogram",
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "path": "hard/largest-rectangle-in-histogram/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "replace-non-coprime-numbers-in-array",
+      "name": "Replace Non-Coprime Numbers in Array",
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Math",
+        "Stack",
+        "Number Theory"
+      ],
+      "path": "hard/replace-non-coprime-numbers-in-array/solution.cpp",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "trapping-rain-water",
+      "name": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Dynamic Programming",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "path": "hard/trapping-rain-water/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "3sum",
+      "name": "3Sum",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "path": "medium/3sum/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "add-two-numbers",
+      "name": "Add Two Numbers",
+      "difficulty": "Medium",
+      "topics": [
+        "Linked List",
+        "Math",
+        "Recursion"
+      ],
+      "path": "medium/add-two-numbers/solution.c",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "best-time-to-buy-and-sell-stock-ii",
+      "name": "Best Time to Buy and Sell Stock II",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "path": "medium/best-time-to-buy-and-sell-stock-ii/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "bitwise-xor-of-all-pairings",
+      "name": "Bitwise XOR of All Pairings",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Brainteaser"
+      ],
+      "path": "medium/bitwise-xor-of-all-pairings/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "construct-k-palindrome-strings",
+      "name": "Construct K Palindrome Strings",
+      "difficulty": "Medium",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Greedy",
+        "Counting"
+      ],
+      "path": "medium/construct-k-palindrome-strings/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "container-with-most-water",
+      "name": "Container With Most Water",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Greedy"
+      ],
+      "path": "medium/container-with-most-water/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "gas-station",
+      "name": "Gas Station",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Greedy"
+      ],
+      "path": "medium/gas-station/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "group-anagrams",
+      "name": "Group Anagrams",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "path": "medium/group-anagrams/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "h-index",
+      "name": "H-Index",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Sorting",
+        "Counting Sort"
+      ],
+      "path": "medium/h-index/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "insert-delete-getrandom-o1",
+      "name": "Insert Delete GetRandom O(1)",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Design",
+        "Randomized"
+      ],
+      "path": "medium/insert-delete-getrandom-o1/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "insert-greatest-common-divisors-in-linked-list",
+      "name": "Insert Greatest Common Divisors in Linked List",
+      "difficulty": "Medium",
+      "topics": [
+        "Linked List",
+        "Math",
+        "Number Theory"
+      ],
+      "path": "medium/insert-greatest-common-divisors-in-linked-list/solution.c",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "jump-game",
+      "name": "Jump Game",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "path": "medium/jump-game/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "jump-game-ii",
+      "name": "Jump Game II",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "path": "medium/jump-game-ii/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "linked-list-components",
+      "name": "Linked List Components",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Linked List"
+      ],
+      "path": "medium/linked-list-components/solution.c",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "longest-consecutive-sequence",
+      "name": "Longest Consecutive Sequence",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Union-Find"
+      ],
+      "path": "medium/longest-consecutive-sequence/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "longest-increasing-subsequence",
+      "name": "Longest Increasing Subsequence",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Dynamic Programming"
+      ],
+      "path": "medium/longest-increasing-subsequence/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "longest-substring-without-repeating-characters",
+      "name": "Longest Substring Without Repeating Characters",
+      "difficulty": "Medium",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sliding Window"
+      ],
+      "path": "medium/longest-substring-without-repeating-characters/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "max-area-of-island",
+      "name": "Max Area of Island",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
+      ],
+      "path": "medium/max-area-of-island/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "maximum-subarray",
+      "name": "Maximum Subarray",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Divide and Conquer",
+        "Dynamic Programming"
+      ],
+      "path": "medium/maximum-subarray/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "merge-intervals",
+      "name": "Merge Intervals",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Sorting"
+      ],
+      "path": "medium/merge-intervals/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "minimum-size-subarray-sum",
+      "name": "Minimum Size Subarray Sum",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Binary Search",
+        "Sliding Window",
+        "Prefix Sum"
+      ],
+      "path": "medium/minimum-size-subarray-sum/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "monotone-increasing-digits",
+      "name": "Monotone Increasing Digits",
+      "difficulty": "Medium",
+      "topics": [
+        "Math",
+        "Greedy"
+      ],
+      "path": "medium/monotone-increasing-digits/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "next-permutation",
+      "name": "Next Permutation",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ],
+      "path": "medium/next-permutation/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "number-of-islands",
+      "name": "Number of Islands",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Union-Find",
+        "Matrix"
+      ],
+      "path": "medium/number-of-islands/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "powx-n",
+      "name": "Pow(x, n)",
+      "difficulty": "Medium",
+      "topics": [
+        "Math",
+        "Recursion"
+      ],
+      "path": "medium/powx-n/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "product-of-array-except-self",
+      "name": "Product of Array Except Self",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Prefix Sum"
+      ],
+      "path": "medium/product-of-array-except-self/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "rearrange-array-elements-by-sign",
+      "name": "Rearrange Array Elements by Sign",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Simulation"
+      ],
+      "path": "medium/rearrange-array-elements-by-sign/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "remove-duplicates-from-sorted-array-ii",
+      "name": "Remove Duplicates from Sorted Array II",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ],
+      "path": "medium/remove-duplicates-from-sorted-array-ii/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "remove-nth-node-from-end-of-list",
+      "name": "Remove Nth Node From End of List",
+      "difficulty": "Medium",
+      "topics": [
+        "Linked List",
+        "Two Pointers"
+      ],
+      "path": "medium/remove-nth-node-from-end-of-list/solution.c",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "reverse-words-in-a-string",
+      "name": "Reverse Words in a String",
+      "difficulty": "Medium",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "path": "medium/reverse-words-in-a-string/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "rotate-array",
+      "name": "Rotate Array",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Math",
+        "Two Pointers"
+      ],
+      "path": "medium/rotate-array/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "set-matrix-zeroes",
+      "name": "Set Matrix Zeroes",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Matrix"
+      ],
+      "path": "medium/set-matrix-zeroes/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "single-number-ii",
+      "name": "Single Number II",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Bit Manipulation"
+      ],
+      "path": "medium/single-number-ii/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "sort-colors",
+      "name": "Sort Colors",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "path": "medium/sort-colors/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "swap-nodes-in-pairs",
+      "name": "Swap Nodes in Pairs",
+      "difficulty": "Medium",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "path": "medium/swap-nodes-in-pairs/solution.c",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "two-sum-ii-input-array-is-sorted",
+      "name": "Two Sum II - Input Array Is Sorted",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Binary Search"
+      ],
+      "path": "medium/two-sum-ii-input-array-is-sorted/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "unique-paths",
+      "name": "Unique Paths",
+      "difficulty": "Medium",
+      "topics": [
+        "Math",
+        "Dynamic Programming",
+        "Combinatorics"
+      ],
+      "path": "medium/unique-paths/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "unique-paths-ii",
+      "name": "Unique Paths II",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Matrix"
+      ],
+      "path": "medium/unique-paths-ii/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "xor-queries-of-a-subarray",
+      "name": "XOR Queries of a Subarray",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Bit Manipulation",
+        "Prefix Sum"
+      ],
+      "path": "medium/xor-queries-of-a-subarray/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "zigzag-conversion",
+      "name": "Zigzag Conversion",
+      "difficulty": "Medium",
+      "topics": [
+        "String"
+      ],
+      "path": "medium/zigzag-conversion/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "best-time-to-buy-and-sell-stock",
+      "name": "Best Time to Buy and Sell Stock",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "path": "easy/best-time-to-buy-and-sell-stock/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "contains-duplicate",
+      "name": "Contains Duplicate",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sorting"
+      ],
+      "path": "easy/contains-duplicate/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "contains-duplicate-ii",
+      "name": "Contains Duplicate II",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Sliding Window"
+      ],
+      "path": "easy/contains-duplicate-ii/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "counting-bits",
+      "name": "Counting Bits",
+      "difficulty": "Easy",
+      "topics": [
+        "Dynamic Programming",
+        "Bit Manipulation"
+      ],
+      "path": "easy/counting-bits/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "name": "Find the Index of the First Occurrence in a String",
+      "difficulty": "Easy",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "String Matching"
+      ],
+      "path": "easy/find-the-index-of-the-first-occurrence-in-a-string/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "happy-number",
+      "name": "Happy Number",
+      "difficulty": "Easy",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "Two Pointers"
+      ],
+      "path": "easy/happy-number/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "intersection-of-two-linked-lists",
+      "name": "Intersection of Two Linked Lists",
+      "difficulty": "Easy",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers"
+      ],
+      "path": "easy/intersection-of-two-linked-lists/solution.c",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "is-subsequence",
+      "name": "Is Subsequence",
+      "difficulty": "Easy",
+      "topics": [
+        "Two Pointers",
+        "String",
+        "Dynamic Programming"
+      ],
+      "path": "easy/is-subsequence/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "isomorphic-strings",
+      "name": "Isomorphic Strings",
+      "difficulty": "Easy",
+      "topics": [
+        "Hash Table",
+        "String"
+      ],
+      "path": "easy/isomorphic-strings/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "length-of-last-word",
+      "name": "Length of Last Word",
+      "difficulty": "Easy",
+      "topics": [
+        "String"
+      ],
+      "path": "easy/length-of-last-word/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "linked-list-cycle",
+      "name": "Linked List Cycle",
+      "difficulty": "Easy",
+      "topics": [
+        "Hash Table",
+        "Linked List",
+        "Two Pointers"
+      ],
+      "path": "easy/linked-list-cycle/solution.c",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "longest-common-prefix",
+      "name": "Longest Common Prefix",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "String",
+        "Trie"
+      ],
+      "path": "easy/longest-common-prefix/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "majority-element",
+      "name": "Majority Element",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Divide and Conquer",
+        "Sorting",
+        "Counting"
+      ],
+      "path": "easy/majority-element/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "maximum-area-of-longest-diagonal-rectangle",
+      "name": "Maximum Area of Longest Diagonal Rectangle",
+      "difficulty": "Easy",
+      "topics": [
+        "Array"
+      ],
+      "path": "easy/maximum-area-of-longest-diagonal-rectangle/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "maximum-depth-of-binary-tree",
+      "name": "Maximum Depth of Binary Tree",
+      "difficulty": "Easy",
+      "topics": [
+        "Tree",
+        "Depth-First Search",
+        "Breadth-First Search",
+        "Binary Tree"
+      ],
+      "path": "easy/maximum-depth-of-binary-tree/solution.c",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "merge-sorted-array",
+      "name": "Merge Sorted Array",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Two Pointers",
+        "Sorting"
+      ],
+      "path": "easy/merge-sorted-array/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "merge-two-sorted-lists",
+      "name": "Merge Two Sorted Lists",
+      "difficulty": "Easy",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "path": "easy/merge-two-sorted-lists/solution.c",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "minimum-bit-flips-to-convert-number",
+      "name": "Minimum Bit Flips to Convert Number",
+      "difficulty": "Easy",
+      "topics": [
+        "Bit Manipulation"
+      ],
+      "path": "easy/minimum-bit-flips-to-convert-number/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "missing-number",
+      "name": "Missing Number",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "Math",
+        "Binary Search",
+        "Bit Manipulation",
+        "Sorting"
+      ],
+      "path": "easy/missing-number/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "move-zeroes",
+      "name": "Move Zeroes",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ],
+      "path": "easy/move-zeroes/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "number-complement",
+      "name": "Number Complement",
+      "difficulty": "Easy",
+      "topics": [
+        "Bit Manipulation"
+      ],
+      "path": "easy/number-complement/solution.c",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "palindrome-number",
+      "name": "Palindrome Number",
+      "difficulty": "Easy",
+      "topics": [
+        "Math"
+      ],
+      "path": "easy/palindrome-number/solution.c",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "pascals-triangle",
+      "name": "Pascal's Triangle",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "path": "easy/pascals-triangle/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "ransom-note",
+      "name": "Ransom Note",
+      "difficulty": "Easy",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Counting"
+      ],
+      "path": "easy/ransom-note/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "remove-duplicates-from-sorted-array",
+      "name": "Remove Duplicates from Sorted Array",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ],
+      "path": "easy/remove-duplicates-from-sorted-array/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "remove-element",
+      "name": "Remove Element",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Two Pointers"
+      ],
+      "path": "easy/remove-element/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "reverse-linked-list",
+      "name": "Reverse Linked List",
+      "difficulty": "Easy",
+      "topics": [
+        "Linked List",
+        "Recursion"
+      ],
+      "path": "easy/reverse-linked-list/solution.c",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "roman-to-integer",
+      "name": "Roman to Integer",
+      "difficulty": "Easy",
+      "topics": [
+        "Hash Table",
+        "Math",
+        "String"
+      ],
+      "path": "easy/roman-to-integer/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "single-number",
+      "name": "Single Number",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Bit Manipulation"
+      ],
+      "path": "easy/single-number/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "transformed-array",
+      "name": "Transformed Array",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Simulation"
+      ],
+      "path": "easy/transformed-array/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "valid-anagram",
+      "name": "Valid Anagram",
+      "difficulty": "Easy",
+      "topics": [
+        "Hash Table",
+        "String",
+        "Sorting"
+      ],
+      "path": "easy/valid-anagram/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "valid-palindrome",
+      "name": "Valid Palindrome",
+      "difficulty": "Easy",
+      "topics": [
+        "Two Pointers",
+        "String"
+      ],
+      "path": "easy/valid-palindrome/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "valid-parentheses",
+      "name": "Valid Parentheses",
+      "difficulty": "Easy",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "path": "easy/valid-parentheses/solution.c",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "word-pattern",
+      "name": "Word Pattern",
+      "difficulty": "Easy",
+      "topics": [
+        "Hash Table",
+        "String"
+      ],
+      "path": "easy/word-pattern/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
       "slug": "two-sum",
       "name": "Two Sum",
       "difficulty": "Easy",
