@@ -538,6 +538,16 @@
       "date_solved": "2026-02-16"
     },
     {
+      "slug": "check-if-array-is-sorted-and-rotated",
+      "name": "Check if Array Is Sorted and Rotated",
+      "difficulty": "Easy",
+      "topics": [
+        "Array"
+      ],
+      "path": "easy/check-if-array-is-sorted-and-rotated/solution.cpp",
+      "date_solved": "2026-02-16"
+    },
+    {
       "slug": "contains-duplicate",
       "name": "Contains Duplicate",
       "difficulty": "Easy",
@@ -559,6 +569,20 @@
         "Sliding Window"
       ],
       "path": "easy/contains-duplicate-ii/solution.py",
+      "date_solved": "2026-02-16"
+    },
+    {
+      "slug": "count-the-number-of-consistent-strings",
+      "name": "Count the Number of Consistent Strings",
+      "difficulty": "Easy",
+      "topics": [
+        "Array",
+        "Hash Table",
+        "String",
+        "Bit Manipulation",
+        "Counting"
+      ],
+      "path": "easy/count-the-number-of-consistent-strings/solution.py",
       "date_solved": "2026-02-16"
     },
     {
