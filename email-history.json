@@ -17,6 +17,12 @@
       "name": "Is Subsequence",
       "difficulty": "Easy",
       "sent_at": "2026-02-17T07:42:32.155Z"
+    },
+    {
+      "slug": "largest-rectangle-in-histogram",
+      "name": "Largest Rectangle in Histogram",
+      "difficulty": "Hard",
+      "sent_at": "2026-02-18T07:42:51.342Z"
     }
   ]
 }
