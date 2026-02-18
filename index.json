@@ -1,6 +1,16 @@
 {
   "items": [
     {
+      "slug": "summary-ranges",
+      "name": "Summary Ranges",
+      "difficulty": "Easy",
+      "topics": [
+        "Array"
+      ],
+      "path": "easy/summary-ranges/solution.py",
+      "date_solved": "2026-02-18"
+    },
+    {
       "slug": "candy",
       "name": "Candy",
       "difficulty": "Hard",
