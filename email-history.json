@@ -23,6 +23,12 @@
       "name": "Largest Rectangle in Histogram",
       "difficulty": "Hard",
       "sent_at": "2026-02-18T07:42:51.342Z"
+    },
+    {
+      "slug": "3sum",
+      "name": "3Sum",
+      "difficulty": "Medium",
+      "sent_at": "2026-02-19T07:41:49.039Z"
     }
   ]
 }
