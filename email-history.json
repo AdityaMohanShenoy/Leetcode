@@ -29,6 +29,12 @@
       "name": "3Sum",
       "difficulty": "Medium",
       "sent_at": "2026-02-19T07:41:49.039Z"
+    },
+    {
+      "slug": "palindrome-number",
+      "name": "Palindrome Number",
+      "difficulty": "Easy",
+      "sent_at": "2026-02-20T07:40:25.799Z"
     }
   ]
 }
