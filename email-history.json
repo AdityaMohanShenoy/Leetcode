@@ -35,6 +35,12 @@
       "name": "Palindrome Number",
       "difficulty": "Easy",
       "sent_at": "2026-02-20T07:40:25.799Z"
+    },
+    {
+      "slug": "trapping-rain-water",
+      "name": "Trapping Rain Water",
+      "difficulty": "Hard",
+      "sent_at": "2026-02-21T07:24:09.732Z"
     }
   ]
 }
