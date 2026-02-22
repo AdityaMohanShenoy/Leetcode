@@ -41,6 +41,12 @@
       "name": "Trapping Rain Water",
       "difficulty": "Hard",
       "sent_at": "2026-02-21T07:24:09.732Z"
+    },
+    {
+      "slug": "linked-list-components",
+      "name": "Linked List Components",
+      "difficulty": "Medium",
+      "sent_at": "2026-02-22T07:28:55.565Z"
     }
   ]
 }
