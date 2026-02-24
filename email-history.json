@@ -53,6 +53,12 @@
       "name": "Contains Duplicate II",
       "difficulty": "Easy",
       "sent_at": "2026-02-23T07:45:51.543Z"
+    },
+    {
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "name": "Find the Index of the First Occurrence in a String",
+      "difficulty": "Easy",
+      "sent_at": "2026-02-24T07:42:41.861Z"
     }
   ]
 }
