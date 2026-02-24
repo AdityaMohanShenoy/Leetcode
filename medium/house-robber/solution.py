@@ -1,7 +1,7 @@
 """
 [Description]
 House Robber
-https://leetcode.com/problems/house-robber/submissions/1929646757/
+https://leetcode.com/problems/house-robber/
 
 You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and it will automatically contact the police if two adjacent houses were broken into on the same night.
 
@@ -37,22 +37,14 @@ Constraints:
 // [Solution]
 class Solution(object):
     def rob(self, nums):
-        robbed_prev = 0
-        free = 0
-
-        for x in nums:
-            new_robbed = free + x
-
-            if free > robbed_prev:
-                new_free = free
-            else:
-                new_free = robbed_prev
-
-            robbed_prev = new_robbed
-            free = new_free
-
-        return robbed_prev if robbed_prev > free else free
-
+        total_loot = [1 for _ in range(len(nums))]
+        total_loot[0]=nums[0]
+        total_loot[1]=max(nums[0], nums[1])
+        for i in range(2,len(nums)):
+            #if i rob the house , that means that till n-2 th index i had robbed 
+            #if i dont rob it the i wuld have robbed till n-1 or the previous one
+            total_loot[i] = max(total_loot[i-2]+nums[i], total_loot[i-1])
+        return total_loot[-1]
 
                 
 
