@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "slug": "house-robber",
+      "name": "House Robber",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "path": "medium/house-robber/solution.py",
+      "date_solved": "2026-02-24"
+    },
+    {
       "slug": "summary-ranges",
       "name": "Summary Ranges",
       "difficulty": "Easy",
