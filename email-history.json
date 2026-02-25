@@ -59,6 +59,12 @@
       "name": "Find the Index of the First Occurrence in a String",
       "difficulty": "Easy",
       "sent_at": "2026-02-24T07:42:41.861Z"
+    },
+    {
+      "slug": "merge-sorted-array",
+      "name": "Merge Sorted Array",
+      "difficulty": "Easy",
+      "sent_at": "2026-02-25T07:44:00.826Z"
     }
   ]
 }
