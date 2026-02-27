@@ -71,6 +71,12 @@
       "name": "Best Time to Buy and Sell Stock",
       "difficulty": "Easy",
       "sent_at": "2026-02-26T07:43:26.623Z"
+    },
+    {
+      "slug": "zigzag-conversion",
+      "name": "Zigzag Conversion",
+      "difficulty": "Medium",
+      "sent_at": "2026-02-27T07:38:16.242Z"
     }
   ]
 }
