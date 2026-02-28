@@ -77,6 +77,12 @@
       "name": "Zigzag Conversion",
       "difficulty": "Medium",
       "sent_at": "2026-02-27T07:38:16.242Z"
+    },
+    {
+      "slug": "number-of-islands",
+      "name": "Number of Islands",
+      "difficulty": "Medium",
+      "sent_at": "2026-02-28T07:19:03.947Z"
     }
   ]
 }
