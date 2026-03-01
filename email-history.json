@@ -83,6 +83,12 @@
       "name": "Number of Islands",
       "difficulty": "Medium",
       "sent_at": "2026-02-28T07:19:03.947Z"
+    },
+    {
+      "slug": "maximum-area-of-longest-diagonal-rectangle",
+      "name": "Maximum Area of Longest Diagonal Rectangle",
+      "difficulty": "Easy",
+      "sent_at": "2026-03-01T07:25:43.810Z"
     }
   ]
 }
