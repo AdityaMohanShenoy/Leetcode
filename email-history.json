@@ -113,6 +113,12 @@
       "name": "Longest Increasing Subsequence",
       "difficulty": "Medium",
       "sent_at": "2026-03-05T07:35:00.306Z"
+    },
+    {
+      "slug": "product-of-array-except-self",
+      "name": "Product of Array Except Self",
+      "difficulty": "Medium",
+      "sent_at": "2026-03-06T07:32:00.789Z"
     }
   ]
 }
