@@ -125,6 +125,12 @@
       "name": "Valid Parentheses",
       "difficulty": "Easy",
       "sent_at": "2026-03-07T07:20:48.823Z"
+    },
+    {
+      "slug": "maximum-depth-of-binary-tree",
+      "name": "Maximum Depth of Binary Tree",
+      "difficulty": "Easy",
+      "sent_at": "2026-03-08T07:24:00.163Z"
     }
   ]
 }
