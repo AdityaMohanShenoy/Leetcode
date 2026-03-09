@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "slug": "simplify-path",
+      "name": "Simplify Path",
+      "difficulty": "Medium",
+      "topics": [
+        "String",
+        "Stack"
+      ],
+      "path": "medium/simplify-path/solution.py",
+      "date_solved": "2026-03-09"
+    },
+    {
       "slug": "house-robber",
       "name": "House Robber",
       "difficulty": "Medium",
