@@ -13,6 +13,74 @@
       "date_solved": "2026-03-09"
     },
     {
+      "slug": "daily-temperatures",
+      "name": "Daily Temperatures",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Stack",
+        "Monotonic Stack"
+      ],
+      "path": "medium/daily-temperatures/solution.py",
+      "date_solved": "2026-03-09"
+    },
+    {
+      "slug": "evaluate-reverse-polish-notation",
+      "name": "Evaluate Reverse Polish Notation",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Math",
+        "Stack"
+      ],
+      "path": "medium/evaluate-reverse-polish-notation/solution.py",
+      "date_solved": "2026-03-09"
+    },
+    {
+      "slug": "house-robber-ii",
+      "name": "House Robber II",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Dynamic Programming"
+      ],
+      "path": "medium/house-robber-ii/solution.py",
+      "date_solved": "2026-03-09"
+    },
+    {
+      "slug": "insert-interval",
+      "name": "Insert Interval",
+      "difficulty": "Medium",
+      "topics": [
+        "Array"
+      ],
+      "path": "medium/insert-interval/solution.py",
+      "date_solved": "2026-03-09"
+    },
+    {
+      "slug": "min-stack",
+      "name": "Min Stack",
+      "difficulty": "Medium",
+      "topics": [
+        "Stack",
+        "Design"
+      ],
+      "path": "medium/min-stack/solution.py",
+      "date_solved": "2026-03-09"
+    },
+    {
+      "slug": "minimum-sideway-jumps",
+      "name": "Minimum Sideway Jumps",
+      "difficulty": "Medium",
+      "topics": [
+        "Array",
+        "Dynamic Programming",
+        "Greedy"
+      ],
+      "path": "medium/minimum-sideway-jumps/solution.py",
+      "date_solved": "2026-03-09"
+    },
+    {
       "slug": "simplify-path",
       "name": "Simplify Path",
       "difficulty": "Medium",
