@@ -131,6 +131,12 @@
       "name": "Maximum Depth of Binary Tree",
       "difficulty": "Easy",
       "sent_at": "2026-03-08T07:24:00.163Z"
+    },
+    {
+      "slug": "palindrome-number",
+      "name": "Palindrome Number",
+      "difficulty": "Easy",
+      "sent_at": "2026-03-09T07:42:56.945Z"
     }
   ]
 }
