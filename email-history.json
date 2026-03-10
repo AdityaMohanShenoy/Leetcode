@@ -137,6 +137,12 @@
       "name": "Palindrome Number",
       "difficulty": "Easy",
       "sent_at": "2026-03-09T07:42:56.945Z"
+    },
+    {
+      "slug": "best-time-to-buy-and-sell-stock-ii",
+      "name": "Best Time to Buy and Sell Stock II",
+      "difficulty": "Medium",
+      "sent_at": "2026-03-10T07:33:01.956Z"
     }
   ]
 }
