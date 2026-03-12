@@ -149,6 +149,12 @@
       "name": "Construct K Palindrome Strings",
       "difficulty": "Medium",
       "sent_at": "2026-03-11T07:36:15.430Z"
+    },
+    {
+      "slug": "insert-interval",
+      "name": "Insert Interval",
+      "difficulty": "Medium",
+      "sent_at": "2026-03-12T07:38:51.916Z"
     }
   ]
 }
