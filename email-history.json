@@ -155,6 +155,12 @@
       "name": "Insert Interval",
       "difficulty": "Medium",
       "sent_at": "2026-03-12T07:38:51.916Z"
+    },
+    {
+      "slug": "next-permutation",
+      "name": "Next Permutation",
+      "difficulty": "Medium",
+      "sent_at": "2026-03-13T07:36:57.457Z"
     }
   ]
 }
