@@ -173,6 +173,12 @@
       "name": "Longest Consecutive Sequence",
       "difficulty": "Medium",
       "sent_at": "2026-03-15T07:37:51.240Z"
+    },
+    {
+      "slug": "evaluate-reverse-polish-notation",
+      "name": "Evaluate Reverse Polish Notation",
+      "difficulty": "Medium",
+      "sent_at": "2026-03-16T08:00:53.651Z"
     }
   ]
 }
