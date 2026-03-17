@@ -179,6 +179,12 @@
       "name": "Evaluate Reverse Polish Notation",
       "difficulty": "Medium",
       "sent_at": "2026-03-16T08:00:53.651Z"
+    },
+    {
+      "slug": "merge-two-sorted-lists",
+      "name": "Merge Two Sorted Lists",
+      "difficulty": "Easy",
+      "sent_at": "2026-03-17T07:45:53.787Z"
     }
   ]
 }
