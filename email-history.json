@@ -1,12 +1,6 @@
 {
   "sent": [
     {
-      "slug": "is-subsequence",
-      "name": "Is Subsequence",
-      "difficulty": "Easy",
-      "sent_at": "2026-02-17T07:42:32.155Z"
-    },
-    {
       "slug": "largest-rectangle-in-histogram",
       "name": "Largest Rectangle in Histogram",
       "difficulty": "Hard",
@@ -185,6 +179,12 @@
       "name": "Sort Colors",
       "difficulty": "Medium",
       "sent_at": "2026-03-19T07:39:14.294Z"
+    },
+    {
+      "slug": "palindrome-number",
+      "name": "Palindrome Number",
+      "difficulty": "Easy",
+      "sent_at": "2026-03-20T07:38:20.041Z"
     }
   ]
 }
