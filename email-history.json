@@ -1,18 +1,6 @@
 {
   "sent": [
     {
-      "slug": "palindrome-number",
-      "name": "Palindrome Number",
-      "difficulty": "Easy",
-      "sent_at": "2026-02-20T07:40:25.799Z"
-    },
-    {
-      "slug": "trapping-rain-water",
-      "name": "Trapping Rain Water",
-      "difficulty": "Hard",
-      "sent_at": "2026-02-21T07:24:09.732Z"
-    },
-    {
       "slug": "linked-list-components",
       "name": "Linked List Components",
       "difficulty": "Medium",
@@ -185,6 +173,12 @@
       "name": "Single Number II",
       "difficulty": "Medium",
       "sent_at": "2026-03-22T07:31:34.736Z"
+    },
+    {
+      "slug": "remove-element",
+      "name": "Remove Element",
+      "difficulty": "Easy",
+      "sent_at": "2026-03-23T07:54:41.441Z"
     }
   ]
 }
