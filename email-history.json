@@ -1,18 +1,6 @@
 {
   "sent": [
     {
-      "slug": "contains-duplicate-ii",
-      "name": "Contains Duplicate II",
-      "difficulty": "Easy",
-      "sent_at": "2026-02-23T07:45:51.543Z"
-    },
-    {
-      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
-      "name": "Find the Index of the First Occurrence in a String",
-      "difficulty": "Easy",
-      "sent_at": "2026-02-24T07:42:41.861Z"
-    },
-    {
       "slug": "merge-sorted-array",
       "name": "Merge Sorted Array",
       "difficulty": "Easy",
@@ -185,6 +173,12 @@
       "name": "Single Number",
       "difficulty": "Easy",
       "sent_at": "2026-03-25T07:44:56.905Z"
+    },
+    {
+      "slug": "minimum-size-subarray-sum",
+      "name": "Minimum Size Subarray Sum",
+      "difficulty": "Medium",
+      "sent_at": "2026-03-26T07:53:51.739Z"
     }
   ]
 }
