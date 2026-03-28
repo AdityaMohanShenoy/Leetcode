@@ -179,6 +179,12 @@
       "name": "Majority Element",
       "difficulty": "Easy",
       "sent_at": "2026-03-27T07:52:32.107Z"
+    },
+    {
+      "slug": "bitwise-xor-of-all-pairings",
+      "name": "Bitwise XOR of All Pairings",
+      "difficulty": "Medium",
+      "sent_at": "2026-03-28T07:37:24.069Z"
     }
   ]
 }
