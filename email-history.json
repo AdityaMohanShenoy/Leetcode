@@ -1,18 +1,6 @@
 {
   "sent": [
     {
-      "slug": "best-time-to-buy-and-sell-stock",
-      "name": "Best Time to Buy and Sell Stock",
-      "difficulty": "Easy",
-      "sent_at": "2026-02-26T07:43:26.623Z"
-    },
-    {
-      "slug": "zigzag-conversion",
-      "name": "Zigzag Conversion",
-      "difficulty": "Medium",
-      "sent_at": "2026-02-27T07:38:16.242Z"
-    },
-    {
       "slug": "number-of-islands",
       "name": "Number of Islands",
       "difficulty": "Medium",
@@ -185,6 +173,12 @@
       "name": "Bitwise XOR of All Pairings",
       "difficulty": "Medium",
       "sent_at": "2026-03-28T07:37:24.069Z"
+    },
+    {
+      "slug": "pascals-triangle",
+      "name": "Pascal's Triangle",
+      "difficulty": "Easy",
+      "sent_at": "2026-03-29T07:44:06.202Z"
     }
   ]
 }
