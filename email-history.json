@@ -1,12 +1,6 @@
 {
   "sent": [
     {
-      "slug": "two-sum-ii-input-array-is-sorted",
-      "name": "Two Sum II - Input Array Is Sorted",
-      "difficulty": "Medium",
-      "sent_at": "2026-03-03T07:35:00.953Z"
-    },
-    {
       "slug": "majority-element",
       "name": "Majority Element",
       "difficulty": "Easy",
@@ -179,6 +173,12 @@
       "name": "Asteroid Collision",
       "difficulty": "Medium",
       "sent_at": "2026-04-01T08:08:09.109Z"
+    },
+    {
+      "slug": "best-time-to-buy-and-sell-stock-ii",
+      "name": "Best Time to Buy and Sell Stock II",
+      "difficulty": "Medium",
+      "sent_at": "2026-04-02T07:57:36.577Z"
     }
   ]
 }
