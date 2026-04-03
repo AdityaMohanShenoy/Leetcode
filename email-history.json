@@ -1,12 +1,6 @@
 {
   "sent": [
     {
-      "slug": "majority-element",
-      "name": "Majority Element",
-      "difficulty": "Easy",
-      "sent_at": "2026-03-04T07:31:05.887Z"
-    },
-    {
       "slug": "longest-increasing-subsequence",
       "name": "Longest Increasing Subsequence",
       "difficulty": "Medium",
@@ -179,6 +173,12 @@
       "name": "Best Time to Buy and Sell Stock II",
       "difficulty": "Medium",
       "sent_at": "2026-04-02T07:57:36.577Z"
+    },
+    {
+      "slug": "jump-game",
+      "name": "Jump Game",
+      "difficulty": "Medium",
+      "sent_at": "2026-04-03T07:54:45.790Z"
     }
   ]
 }
