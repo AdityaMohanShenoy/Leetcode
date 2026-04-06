@@ -1,12 +1,6 @@
 {
   "sent": [
     {
-      "slug": "valid-parentheses",
-      "name": "Valid Parentheses",
-      "difficulty": "Easy",
-      "sent_at": "2026-03-07T07:20:48.823Z"
-    },
-    {
       "slug": "maximum-depth-of-binary-tree",
       "name": "Maximum Depth of Binary Tree",
       "difficulty": "Easy",
@@ -179,6 +173,12 @@
       "name": "Ransom Note",
       "difficulty": "Easy",
       "sent_at": "2026-04-05T07:47:48.830Z"
+    },
+    {
+      "slug": "next-permutation",
+      "name": "Next Permutation",
+      "difficulty": "Medium",
+      "sent_at": "2026-04-06T08:16:37.221Z"
     }
   ]
 }
