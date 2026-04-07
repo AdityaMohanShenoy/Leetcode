@@ -1,12 +1,6 @@
 {
   "sent": [
     {
-      "slug": "maximum-depth-of-binary-tree",
-      "name": "Maximum Depth of Binary Tree",
-      "difficulty": "Easy",
-      "sent_at": "2026-03-08T07:24:00.163Z"
-    },
-    {
       "slug": "palindrome-number",
       "name": "Palindrome Number",
       "difficulty": "Easy",
@@ -179,6 +173,12 @@
       "name": "Next Permutation",
       "difficulty": "Medium",
       "sent_at": "2026-04-06T08:16:37.221Z"
+    },
+    {
+      "slug": "merge-sorted-array",
+      "name": "Merge Sorted Array",
+      "difficulty": "Easy",
+      "sent_at": "2026-04-07T08:04:18.200Z"
     }
   ]
 }
