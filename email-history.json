@@ -1,12 +1,6 @@
 {
   "sent": [
     {
-      "slug": "palindrome-number",
-      "name": "Palindrome Number",
-      "difficulty": "Easy",
-      "sent_at": "2026-03-09T07:42:56.945Z"
-    },
-    {
       "slug": "best-time-to-buy-and-sell-stock-ii",
       "name": "Best Time to Buy and Sell Stock II",
       "difficulty": "Medium",
@@ -179,6 +173,12 @@
       "name": "Merge Sorted Array",
       "difficulty": "Easy",
       "sent_at": "2026-04-07T08:04:18.200Z"
+    },
+    {
+      "slug": "find-the-index-of-the-first-occurrence-in-a-string",
+      "name": "Find the Index of the First Occurrence in a String",
+      "difficulty": "Easy",
+      "sent_at": "2026-04-08T08:05:10.676Z"
     }
   ]
 }
