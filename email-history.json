@@ -1,12 +1,6 @@
 {
   "sent": [
     {
-      "slug": "best-time-to-buy-and-sell-stock-ii",
-      "name": "Best Time to Buy and Sell Stock II",
-      "difficulty": "Medium",
-      "sent_at": "2026-03-10T07:33:01.956Z"
-    },
-    {
       "slug": "construct-k-palindrome-strings",
       "name": "Construct K Palindrome Strings",
       "difficulty": "Medium",
@@ -179,6 +173,12 @@
       "name": "Find the Index of the First Occurrence in a String",
       "difficulty": "Easy",
       "sent_at": "2026-04-08T08:05:10.676Z"
+    },
+    {
+      "slug": "unique-paths-ii",
+      "name": "Unique Paths II",
+      "difficulty": "Medium",
+      "sent_at": "2026-04-09T08:09:59.333Z"
     }
   ]
 }
