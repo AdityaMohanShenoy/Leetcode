@@ -1,12 +1,6 @@
 {
   "sent": [
     {
-      "slug": "construct-k-palindrome-strings",
-      "name": "Construct K Palindrome Strings",
-      "difficulty": "Medium",
-      "sent_at": "2026-03-11T07:36:15.430Z"
-    },
-    {
       "slug": "insert-interval",
       "name": "Insert Interval",
       "difficulty": "Medium",
@@ -179,6 +173,12 @@
       "name": "Unique Paths II",
       "difficulty": "Medium",
       "sent_at": "2026-04-09T08:09:59.333Z"
+    },
+    {
+      "slug": "maximum-depth-of-binary-tree",
+      "name": "Maximum Depth of Binary Tree",
+      "difficulty": "Easy",
+      "sent_at": "2026-04-10T08:14:53.593Z"
     }
   ]
 }
