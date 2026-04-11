@@ -1,12 +1,6 @@
 {
   "sent": [
     {
-      "slug": "insert-interval",
-      "name": "Insert Interval",
-      "difficulty": "Medium",
-      "sent_at": "2026-03-12T07:38:51.916Z"
-    },
-    {
       "slug": "next-permutation",
       "name": "Next Permutation",
       "difficulty": "Medium",
@@ -179,6 +173,12 @@
       "name": "Maximum Depth of Binary Tree",
       "difficulty": "Easy",
       "sent_at": "2026-04-10T08:14:53.593Z"
+    },
+    {
+      "slug": "product-of-array-except-self",
+      "name": "Product of Array Except Self",
+      "difficulty": "Medium",
+      "sent_at": "2026-04-11T07:42:05.834Z"
     }
   ]
 }
