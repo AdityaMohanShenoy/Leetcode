@@ -1,12 +1,6 @@
 {
   "sent": [
     {
-      "slug": "next-permutation",
-      "name": "Next Permutation",
-      "difficulty": "Medium",
-      "sent_at": "2026-03-13T07:36:57.457Z"
-    },
-    {
       "slug": "jump-game",
       "name": "Jump Game",
       "difficulty": "Medium",
@@ -179,6 +173,12 @@
       "name": "Product of Array Except Self",
       "difficulty": "Medium",
       "sent_at": "2026-04-11T07:42:05.834Z"
+    },
+    {
+      "slug": "is-subsequence",
+      "name": "Is Subsequence",
+      "difficulty": "Easy",
+      "sent_at": "2026-04-12T07:56:05.099Z"
     }
   ]
 }
