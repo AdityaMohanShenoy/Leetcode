@@ -1,12 +1,6 @@
 {
   "sent": [
     {
-      "slug": "longest-consecutive-sequence",
-      "name": "Longest Consecutive Sequence",
-      "difficulty": "Medium",
-      "sent_at": "2026-03-15T07:37:51.240Z"
-    },
-    {
       "slug": "evaluate-reverse-polish-notation",
       "name": "Evaluate Reverse Polish Notation",
       "difficulty": "Medium",
@@ -179,6 +173,12 @@
       "name": "XOR Queries of a Subarray",
       "difficulty": "Medium",
       "sent_at": "2026-04-13T08:57:26.822Z"
+    },
+    {
+      "slug": "longest-consecutive-sequence",
+      "name": "Longest Consecutive Sequence",
+      "difficulty": "Medium",
+      "sent_at": "2026-04-14T08:19:40.263Z"
     }
   ]
 }
