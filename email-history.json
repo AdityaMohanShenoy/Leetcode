@@ -1,12 +1,6 @@
 {
   "sent": [
     {
-      "slug": "evaluate-reverse-polish-notation",
-      "name": "Evaluate Reverse Polish Notation",
-      "difficulty": "Medium",
-      "sent_at": "2026-03-16T08:00:53.651Z"
-    },
-    {
       "slug": "merge-two-sorted-lists",
       "name": "Merge Two Sorted Lists",
       "difficulty": "Easy",
@@ -179,6 +173,12 @@
       "name": "Longest Consecutive Sequence",
       "difficulty": "Medium",
       "sent_at": "2026-04-14T08:19:40.263Z"
+    },
+    {
+      "slug": "bitwise-xor-of-all-pairings",
+      "name": "Bitwise XOR of All Pairings",
+      "difficulty": "Medium",
+      "sent_at": "2026-04-15T08:20:59.506Z"
     }
   ]
 }
